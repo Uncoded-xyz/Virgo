@@ -1,0 +1,11 @@
+{
+    "name": "Say",
+    "description": "Says what you want!",
+    "answer": "",
+    "script": [
+    "del",
+    "embed = {username} says | {args} | #551a8b"
+    ],
+    "error": "Error",
+    "permissions_level": 1
+}
