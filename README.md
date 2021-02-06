@@ -21,6 +21,9 @@ No problem! Just check out the <a href="https://virgo.uncoded.xyz/docs">docs</a>
 - **Ping**
   - [Source Code](https://github.com/Uncoded-xyz/Virgo/blob/main/Commands/ping.json)
 
+- **Say**
+  - [Source Code](https://github.com/Uncoded-xyz/Virgo/blob/main/Commands/say.json)
+
 ---
 
 ## Powered By
