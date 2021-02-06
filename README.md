@@ -6,11 +6,15 @@ Samples/Examples and Informations about Virgo Discord Bot Engine.
 - [Developers Website](https://uncoded.xyz)
 - [Virgo Website](https://virgo.uncoded.xyz)
 - [Virgo Hosting Panel](https://host.uncoded.xyz)
+- [Virgo Discord Server](https://discord.gg/XZwseczDDy)
 
 ## Informations
 
 You have **Virgo**, but you **don't know** how to use it?
 No problem! Just check out the <a href="https://virgo.uncoded.xyz/docs">docs</a>.
+
+Found a **bug**, or you want to **suggest** a **feature**?
+Feel free to write in the **issues** section of this repository.
 
 ## Commands
 
