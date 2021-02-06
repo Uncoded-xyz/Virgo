@@ -1,0 +1,133 @@
+{
+    "run": true,
+    "strict-mode": false,
+    "load_plugins": true,
+    "token": "",
+    "license": "",
+    "permissions_level": 1,
+    "prefix": "",
+    "ownersid": [],
+    "presence": "online",
+    "cmd_dir": "Commands",
+    "status": "Hello world!",
+    "status-type": "PLAYING",
+    "logchannelid": "",
+    "YOUTUBE_API_KEY": "",
+    "events": {
+        "newserver": {
+            "log": "",
+            "script": []
+        },
+        "exitserver": {
+            "log": "",
+            "script": []
+        },
+        "newmember": {
+            "log": "",
+            "script": [],
+            "canvas": {
+                "background": "",
+                "title_hex_color": "",
+                "hex_color": ""
+            },
+            "welcome_dm": "",
+            "welcome_msg": ""
+        },
+        "exitmember": {
+            "log": "",
+            "script": [],
+            "canvas": {
+                "background": "",
+                "title_hex_color": "",
+                "hex_color": ""
+            },
+            "left_msg": ""
+        },
+        "memberboost": {
+            "log": "",
+            "send": ""
+        },
+        "newban": {
+            "log": "",
+            "script": [],
+            "answer": "",
+            "ban_msg": ""
+        },
+        "newkick": {
+            "log": "",
+            "script": [],
+            "answer": "",
+            "kick_msg": ""
+        },
+        "newwarn": {
+            "log": "",
+            "script": [],
+            "answer": "",
+            "warn_msg": ""
+        },
+        "unwarn": {
+            "log": "",
+            "script": [],
+            "answer": "",
+            "unwarn_msg": "",
+            "reset_msg": ""
+        },
+        "db_init": {
+            "script": []
+        }
+    },
+    "errors": {
+        "dm": "Virgo Alpha doesn't allow DM commands - Please add me to a Server",
+        "missing_permission": "You don't have necessary permissions to run this cmd",
+        "no_mentioned_channel": "No mentioned channel",
+        "invalid_channel": "Invalid channel ID",
+        "invalid_user": "Invalid user ID",
+        "invalid_permissions": "Invalid permissions",
+        "user_not_bannable": "User not Bannable",
+        "empty_msg": "Cannot send an empty message",
+        "no_arguments": "No args given",
+        "selfban": "You can't ban yourself",
+        "selfkick": "You can't kick yourself",
+        "selfwarn": "You can't warn yourself",
+        "higher_role": "The role position of the member is higher of yours",
+        "bot_missing_permissions": "i don't have necessary permissions",
+        "timeout_answer": "No more time to answer!",
+        "cmd_disabled": "This command has been disabled!",
+        "music_no_queue": "Nothing playing",
+        "voicechannel": "You need to be in a Voice channel"
+    },
+    "commands": {
+        "list": [],
+        "enable_demo": true,
+        "verbose": true,
+        "enable_menu": true,
+        "disabled": []
+    },
+    "triggers": [
+    ],
+    "automod": {
+        "enabled": true,
+        "banned_words": [],
+        "msg": "",
+        "max_warns": 3,
+        "max_warns_action": "",
+        "mutedroleid": ""
+    },
+    "serverstats": {
+        "enabled": true,
+        "channel_totalusers_id": "",
+        "channel_users_id": "",
+        "channel_bots_id": ""
+    },
+    "phrases": {
+        "user_unwarned": "User Unwarned"
+    },
+    "embeds": [
+    ],
+    "images": {
+            "test": {
+                "url": "",
+                "script": []
+            }
+    }
+}
