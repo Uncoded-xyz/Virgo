@@ -14,6 +14,10 @@ No problem! Just check out the <a href="https://virgo.uncoded.xyz/docs">docs</a>
 
 ## Commands
 
+- **Config.json Example**
+  - [Source Code](https://github.com/Uncoded-xyz/Virgo/blob/main/config.example.json)
+
+
 - **Ping**
   - [Source Code](https://github.com/Uncoded-xyz/Virgo/blob/main/Commands/ping.json)
 
