@@ -1,0 +1,8 @@
+{
+    "name": "Ping",
+    "description": "Answers with Pong!",
+    "answer": "Pong!",
+    "script": [],
+    "error": "Why should you encount an error with a ping command?",
+    "permissions_level": 1
+}
