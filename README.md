@@ -50,7 +50,9 @@ Click on the server displayed in the center of the page With a name like this: {
 How the first part (from token to log-channel) of the config should look like:
 <img src="https://cdn.discordapp.com/attachments/732173712400318464/812672939379916800/unknown.png">
 
-
+How the "events" part of the confing should look like:\
+<img src="https://cdn.discordapp.com/attachments/732173712400318464/812678881369784320/unknown.png">
+(In the "script" field you should add the script using [virgoscript](https://virgo.uncoded.xyz/docs/#/?id=virgoscript))
  
 ## Commands
 
