@@ -11,7 +11,7 @@ Samples/Examples and Informations about Virgo Discord Bot Engine.
 ## Informations
 
 You have **Virgo**, but you **don't know** how to use it?
-No problem! Just check out the <a href="https://virgo.uncoded.xyz/docs" target="blank" >Official Guide!</a>.
+No problem! Just check out the <a href="https://github.com/Uncoded-xyz/Virgo/blob/main/README.md#official-guide-step-by-step" target="blank" >Official Guide!</a>.
 
 Found a **bug**, or you want to **suggest** a **feature**?
 Feel free to write in the **issues** section of this repository.
