@@ -19,9 +19,9 @@ Feel free to write in the **issues** section of this repository.
 
 ## Official Guide (step by step)
 ### Getting started.
-**step one**
- [Create a new Discord application](https://discord.com/developers/applications)
- <img src="https://cdn.discordapp.com/attachments/688491849328885797/812636988683190332/unknown.png">
+**step one:**
+ [Create a new Discord application](https://discord.com/developers/applications).
+ <img src="https://cdn.discordapp.com/attachments/732173712400318464/812637588036780032/unknown.png">
 
 
 ## Commands
