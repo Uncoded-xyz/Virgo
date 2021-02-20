@@ -16,16 +16,21 @@ No problem! Just check out the <a href="https://virgo.uncoded.xyz/docs">docs</a>
 Found a **bug**, or you want to **suggest** a **feature**?
 Feel free to write in the **issues** section of this repository.
 
+---
 
-## Official Guide (step by step)
-### Getting started.
+# Official Guide (step by step)
+### Getting started
 **Step one:**\
  Create a new [Discord application](https://discord.com/developers/applications).\
- <img src="https://cdn.discordapp.com/attachments/732173712400318464/812637588036780032/unknown.png">\
+ <img src="https://cdn.discordapp.com/attachments/732173712400318464/812637588036780032/unknown.png">
  
  **Step two:**\
 After creating the application, go to "Bot" section and click "Add Bot" and "yes do it!" for the confirmation.\
 <img src="https://cdn.discordapp.com/attachments/732173712400318464/812641062585106442/unknown.png">
+
+ **Step three:**\
+ **IMPORTANT!** Make sure to have this 2 flags enabled, or your Bot won't work!!
+ <img src="https://virgo.uncoded.xyz/docs/assets/please.png" style="width: 50px;">
 
 
 ## Commands
