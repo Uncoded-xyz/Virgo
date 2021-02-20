@@ -33,7 +33,6 @@ Feel free to write in the **issues** section of this repository.
 
 
 ## Powered By
-
 ---
 
 <table>
