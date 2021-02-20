@@ -53,8 +53,17 @@ How the first part (from token to log-channel) of the config.json should look li
 How the "events" part of the confing.json should look like:\
 <img src="https://cdn.discordapp.com/attachments/732173712400318464/812678881369784320/unknown.png">\
 (**Remember:** In the "script" field you should to add the script using [virgoscript](https://virgo.uncoded.xyz/docs/#/?id=virgoscript))
- 
-## Commands
+
+**Commands**\
+The names of virgo commands must end with .virgo (Ex: ping.virgo).
+
+Go to the command directory (*Usually is ./Command dir but you can change it on the config*), click on "New file",\
+<img src="https://cdn.discordapp.com/attachments/732173712400318464/812738002476335134/unknown.png">
+
+Write in the new file the script of the command (Using virgoScript), if you don't know how to make commands look at the [Documentation](https://virgo.uncoded.xyz/docs/#/?id=file-structure).\
+Save the command as CommandName.virgo and then go to the config, at line 10, to the list (*Array*) of enabled command, and add the name of the command (without the .virgo extension).
+
+## Examples
 
 - **Config.json Example**
   - [Source Code](https://github.com/Uncoded-xyz/Virgo/blob/main/config.example.json)
