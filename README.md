@@ -45,7 +45,7 @@ Click on the server displayed in the center of the page With a name like this: {
 * status *(line 12)* -> Your Bot's activity
 * logchannelid *(line 14)* -> The ID of the channel where the Bot will send the eventual logs, if there | Adjective field.
 * events *(from line 16)* -> Events have their own section
-* commands list *(line 99/100)* -> A list (Array) of your Commands. You MUST ***insert your command name here before running the bot or it will be ignored***\
+* commands list *(line 99/100)* -> A list (Array) of your Commands. ***You MUST insert your command name here before running the bot or it will be ignored***
 
 How the first part (from token to log-channel) of the config should look like:
 <img src="https://cdn.discordapp.com/attachments/732173712400318464/812672939379916800/unknown.png">
