@@ -41,13 +41,13 @@ Click on the server displayed in the center of the page With a name like this: {
 * permission_level *(line 7)* -> If you have a bot which moderates too, you must set this value to 2 or 3
 * prefix *(line 8)* -> Your Bot's prefix
 * presence *(line 10)* -> Can be online, idle, dnd, invisible
-* cmd_dir *(line 11)* -> The name of the directory where your commands are stored
+* cmd_dir *(line 11)* -> The name of the directory where your commands are stored (./Commands is default dir)
 * status *(line 12)* -> Your Bot's activity
 * logchannelid *(line 14)* -> The ID of the channel where the Bot will send the eventual logs, if there | Adjective field.
 * events *(from line 16)* -> Events have their own section
 * commands list *(line 99/100)* -> A list (Array) of your Commands. You MUST ***insert your command name here before running the bot or it will be ignored***\
 
-How the first part of the config should look like:\
+How the first part (from token to log-channel) of the config should look like:
 <img src="https://cdn.discordapp.com/attachments/732173712400318464/812672939379916800/unknown.png">
 
 
