@@ -35,7 +35,16 @@ After creating the application, go to "Bot" section and click "Add Bot" and then
 ### Virgo configuration
 **Step one**\
 Go to the [control panel of virgo](https://host.uncoded.xyz) and login here with your credentials.\
-Click on the server displayed in the center of the page With a name like this: {yourUsername} | virgo premium, then go to the file manager and open a file called config.json.
+Click on the server displayed in the center of the page With a name like this: {yourUsername} | virgo premium, then go to the file manager and open a file called config.json abd change the following variables:
+* token -> Your Bot's Token
+* permission_level -> If you have a bot which moderates too, you must set this value to 2 or 3
+* prefix -> Your Bot's prefix
+* presence -> Can be online, idle, dnd, invisible
+* cmd_dir -> The name of the directory where your commands are stored
+* status -> Your Bot's activity
+* logchannelid -> The ID of the channel where the Bot will send the eventual logs, if there | Adjective field.
+* events -> Events have their own section
+* commands list -> A list (Array) of your Commands. You MUST insert your command name here before running the bot or it will be ignored
 
 
  
