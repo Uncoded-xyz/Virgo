@@ -25,14 +25,20 @@ Feel free to write in the **issues** section of this repository.
  <img src="https://cdn.discordapp.com/attachments/732173712400318464/812637588036780032/unknown.png">
  
  **Step two:**\
-After creating the application, go to "Bot" section and click "Add Bot" and "yes do it!" for the confirmation.\
+After creating the application, go to "Bot" section and click "Add Bot" and then click"yes do it!" for the confirmation.\
 <img src="https://cdn.discordapp.com/attachments/732173712400318464/812641062585106442/unknown.png">
 
  **Step three:**\
  **IMPORTANT!** Make sure to have this 2 flags enabled, or your Bot won't work!!
  <img src="https://virgo.uncoded.xyz/docs/assets/please.png" style="width: 50px;">
+ 
+### Virgo configuration
+**Step one**\
+Go to the [control panel of virgo](https://host.uncoded.xyz) and login here with your credentials.\
+Click on the server displayed in the center of the page With a name like this: {yourUsername} | virgo premium, then go to the file manager and open a file called config.json.
 
 
+ 
 ## Commands
 
 - **Config.json Example**
