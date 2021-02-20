@@ -52,7 +52,7 @@ How the first part (from token to log-channel) of the config.json should look li
 
 How the "events" part of the confing.json should look like:\
 <img src="https://cdn.discordapp.com/attachments/732173712400318464/812678881369784320/unknown.png">\
-(**Remember:** In the "script" field you should add the script using [virgoscript](https://virgo.uncoded.xyz/docs/#/?id=virgoscript))
+(**Remember:** In the "script" field you should to add the script using [virgoscript](https://virgo.uncoded.xyz/docs/#/?id=virgoscript))
  
 ## Commands
 
