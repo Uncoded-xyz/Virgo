@@ -39,3 +39,6 @@ Feel free to write in the **issues** section of this repository.
     <td align="center"><a href="https://github.com"><img src="https://cdn.discordapp.com/avatars/527592495807332352/a7786edc3a7abab3bbda88f23d78cd0d.png" width="150px;" alt=""/><br /><sub><b>Sunrisees</b></sub></a><br /><a title="Developer">Developer</a></td>
     </tr>   
 </table>
+
+# Official Guide (step by step)
+
