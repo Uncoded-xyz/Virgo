@@ -49,10 +49,37 @@ Click on the server displayed in the center of the page With a name like this: {
 
 
 How the first part (from token to log-channel) of the config.json should look like:
-<img src="https://cdn.discordapp.com/attachments/732173712400318464/812672939379916800/unknown.png">
+```json
+{
+    "run": true,
+    "strict-mode": false,
+    "load_plugins": true,
+    "token": "",
+    "license": "",
+    "permissions_level": 1,
+    "prefix": "",
+    "ownersid": [],
+    "presence": "online",
+    "cmd_dir": "Commands",
+    "status": "Hello world!",
+    "status-type": "PLAYING",
+    "logchannelid": "",
+```
 
 How the "events" part of the confing.json should look like:\
-<img src="https://cdn.discordapp.com/attachments/732173712400318464/812678881369784320/unknown.png">\
+```json
+    "events": {
+        "newserver": {
+            "log": "",
+            "script": []
+        },
+        "exitserver": {
+            "log": "",
+            "script": []
+        }
+```
+<br>
+
 (**Remember:** In the "script" field you should to add the script using [virgoscript](https://virgo.uncoded.xyz/docs/#/?id=virgoscript))
 
 **Commands**\
@@ -89,5 +116,3 @@ Save the command as CommandName.virgo and then go to the config, at line 10, to 
     <td align="center"><a href="https://github.com"><img src="https://cdn.discordapp.com/avatars/527592495807332352/a7786edc3a7abab3bbda88f23d78cd0d.png" width="150px;" alt=""/><br /><sub><b>Sunrisees</b></sub></a><br /><a title="Developer">Developer</a></td>
     </tr>   
 </table>
-
-
