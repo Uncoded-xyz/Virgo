@@ -29,11 +29,12 @@ Feel free to write in the **issues** section of this repository.
   - [Source Code](https://github.com/Uncoded-xyz/Virgo/blob/main/Commands/say.json)
 
 
-# Official Guide (step by step)
-
+## Official Guide (step by step)
+### -1st step: 
+---
 
 ## Powered By
----
+
 
 <table>
   <tr>
