@@ -16,6 +16,14 @@ No problem! Just check out the <a href="https://virgo.uncoded.xyz/docs">docs</a>
 Found a **bug**, or you want to **suggest** a **feature**?
 Feel free to write in the **issues** section of this repository.
 
+
+## Official Guide (step by step)
+### Getting started.
+**step one**
+ [Create a new Discord application](https://discord.com/developers/applications)
+ <img src="https://cdn.discordapp.com/attachments/688491849328885797/812636988683190332/unknown.png">
+
+
 ## Commands
 
 - **Config.json Example**
