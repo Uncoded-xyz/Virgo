@@ -91,3 +91,4 @@ Save the command as CommandName.virgo and then go to the config, at line 10, to 
 </table>
 
 
+Copyright (c) 2021 Uncoded - Virgo
