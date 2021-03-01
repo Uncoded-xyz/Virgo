@@ -1,0 +1,3 @@
++ requireAdmin
++ catchMsg = Error!
+sendTo = <channel-id> | Announcement: blah blah

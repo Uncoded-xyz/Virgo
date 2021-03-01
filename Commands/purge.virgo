@@ -1,0 +1,5 @@
+if = {sender-has-permission -> MANAGE_MESSAGES} == false => send = You can only use this Command if you have the 'MANAGE_MESSAGES' permission!
+if = {sender-has-permission -> MANAGE_MESSAGES} == false => end
+if = {args} ==  => end
+purge = {args}
+kamikaze = Purged! | 5000

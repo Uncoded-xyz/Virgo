@@ -1,0 +1,4 @@
++ requireAdmin
++ catchMsg = Something went wrong!
+del
+embed = {username} says | {args} | #551a8b

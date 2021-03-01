@@ -1,0 +1,5 @@
+- You can, for example, add Money to someone's balance.
++ catchMsg = There was an error!
++ requireRole = BankManager
+add = money_{mention-user-id} | 50
+send = Succesfully added 50€ to {mention-user-username}'s Balance!

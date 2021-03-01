@@ -1,0 +1,2 @@
+- A simple Ping command, we'll answer with pong
+send = Pong!

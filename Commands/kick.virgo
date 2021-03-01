@@ -1,0 +1,3 @@
++ requireAdmin
++ catchMsg = Something went wrong!
+kick = {mention-user-id} | {args}
