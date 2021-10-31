@@ -1,0 +1,3 @@
+- If i'm admin, it'll reply "YOU ARE ADMIN"
++ requireAdmin
+send = "You are Admin"
