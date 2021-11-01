@@ -1,3 +1,4 @@
+<a href="https://github.com/Uncoded-xyz/Virgo/blob/main/UPDATE.md" target="blank" >**UPDATES!**</a>
 # Virgo
 Samples/Examples and Informations about Virgo Discord Bot Engine.
 
